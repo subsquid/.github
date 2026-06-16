@@ -12,8 +12,6 @@ We maintain:
 * [squid-cli](https://github.com/subsquid/squid-cli): the `sqd` command to scaffold, build, and deploy indexers to SQD Cloud.
 * [sqd-network](https://github.com/subsquid/sqd-network): the decentralized data lake and query engine (libp2p worker, gateway, and scheduler nodes) that powers SQD Portal.
 * [subsquid-network-contracts](https://github.com/subsquid/subsquid-network-contracts): Solidity contracts for SQD Network (worker bonds, delegated staking, gateway registry, onchain rewards on Arbitrum).
-* [firehose-grpc](https://github.com/subsquid/firehose-grpc): a drop-in firehose-ethereum gRPC server that feeds The Graph's graph-node from SQD Portal.
-* [docs](https://github.com/subsquid/docs): source for [docs.sqd.dev](https://docs.sqd.dev).
 
 Get started:
 * Docs and quickstarts: https://docs.sqd.dev
