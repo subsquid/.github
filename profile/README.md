@@ -3,7 +3,7 @@
   <img alt="SQD" src="https://raw.githubusercontent.com/subsquid/.github/main/assets/sqd-logo-light.svg" width="auto" height="100">
 </picture>
 
-[SQD](https://sqd.dev) is an open data platform for Web3. It gives developers fast, validated access to onchain data across 225+ networks, plus open-source toolkits to extract, transform, and serve that data into their own apps, databases, and analytics stacks.
+[SQD](https://sqd.dev) is an open data platform for Web3. It gives developers fast, validated access to onchain data across 130+ networks, plus open-source toolkits to extract, transform, and serve that data into their own apps, databases, and analytics stacks.
 
 This GitHub organization hosts SQD's core open-source code: the Squid SDK, the `sqd` CLI, the decentralized SQD Network, and its onchain contracts. Templates, examples, and tutorials live in [subsquid-labs](https://github.com/subsquid-labs).
 
