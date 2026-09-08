@@ -8,6 +8,7 @@
 This GitHub organization hosts SQD's core open-source code: the Squid SDK, the `sqd` CLI, the decentralized SQD Network, and its onchain contracts. Templates, examples, and tutorials live in [subsquid-labs](https://github.com/subsquid-labs).
 
 We maintain:
+* [pipes-sdk](https://github.com/subsquid/pipes-sdk): TypeScript SDK for streaming blockchain data, decode EVM/Solana/Bitcoin/Tron/Hyperliquid onchain data, handle reorgs, write to Postgres, ClickHouse, BigQuery, or Parquet. 
 * [squid-sdk](https://github.com/subsquid/squid-sdk): TypeScript ETL toolkit for indexing Ethereum, Solana, and Substrate data, sourced from SQD Network.
 * [squid-cli](https://github.com/subsquid/squid-cli): the `sqd` command to scaffold, build, and deploy indexers to SQD Cloud.
 * [sqd-network](https://github.com/subsquid/sqd-network): the decentralized data lake and query engine (libp2p worker, gateway, and scheduler nodes) that powers SQD Portal.
